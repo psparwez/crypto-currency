@@ -41,7 +41,8 @@ Designed with HTML, CSS,JavaScript and Swiper JS for a seamless user experience.
     <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logoColor=white&logo=html5&color=E34F26" alt="HTML5" />
     <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logoColor=white&logo=css3&color=1572B6" alt="CSS3" />
     <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logoColor=white&logo=javascript&color=F7DF1E" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/-Swiper%20JS-black?style=for-the-badge&logo=swiper&logoColor=white&color=6332F6" alt="Swiper JS" />
+
   </div>
 
 <br />
