@@ -35,7 +35,6 @@ Designed with HTML, CSS,JavaScript and Swiper JS for a seamless user experience.
       <br />
   <br />
   <br />
-  <br />
 
   <div>
     <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logoColor=white&logo=html5&color=E34F26" alt="HTML5" />
