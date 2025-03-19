@@ -21,7 +21,7 @@ Designed with HTML, CSS,JavaScript and Swiper JS for a seamless user experience.
 <br />
 <br />
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-BITNexus-blue?style=for-the-badge)](https://github.com/psparwez/crypto-currency)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-BITNexus-blue?style=for-the-badge)](https://psparwez.github.io/crypto-currency/)
 
 </div>
 
